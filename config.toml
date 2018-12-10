@@ -2,6 +2,7 @@ baseURL = "http://universal-altimeter.com"
 languageCode = "en-us"
 title = "Universal Altimeter"
 theme = "now-ui"
+googleAnalytics = "UA-129105200-1"
 
 [[menu.main]]
     name = ""
