@@ -9,3 +9,9 @@ googleAnalytics = "UA-129105200-1"
     url = "https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8"
     pre = "<img src='/appstore.svg'></i>"
     weight = 1
+
+[[menu.footer]]
+    identifier = "copyright"
+    name = "Privacy Policy"
+    url = "/privacy_policy.html"
+    weight = 1
