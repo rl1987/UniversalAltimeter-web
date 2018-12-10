@@ -4,6 +4,7 @@ title = "Universal Altimeter"
 theme = "now-ui"
 
 [[menu.main]]
-    name = "Download on AppStore"
+    name = ""
     url = "https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8"
+    pre = "<img src='/appstore.svg'></i>"
     weight = 1
