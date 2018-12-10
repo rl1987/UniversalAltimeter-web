@@ -1,7 +1,6 @@
 ---
 title: "Barometric Altimeter vs. GPS: A comparison"
 date: 2018-12-10T13:46:23+02:00
-draft: true
 ---
 
 [Universal Altimeter](https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8) provides two ways to measure elevation: by utilising iPhones barometric sensor (available in all iPhone models since iPhone 6) and by using GPS receiver. How are they different? When one of these measurement modes is to be preferred over the other? Let's find out!

@@ -1,7 +1,6 @@
 ---
 title: "Barometer and Altimeter: How Barometric Altimetry Works"
 date: 2018-12-09T14:28:48+02:00
-draft: true
 ---
 
 Many people are familiar with barometric altimeter - a device that measures altitude based on atmospheric pressure. But have you ever considered: what is the working principle of barometric altimeter and how does it work, really? If one has a barometer, can they use it to measure altitude? This post will hopefully make it clear and provide the knowledge for the curious.
