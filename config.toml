@@ -2,3 +2,8 @@ baseURL = "http://universal-altimeter.com"
 languageCode = "en-us"
 title = "Universal Altimeter"
 theme = "now-ui"
+
+[[menu.main]]
+    name = "Download on AppStore"
+    url = "https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8"
+    weight = 1
