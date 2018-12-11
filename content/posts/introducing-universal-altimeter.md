@@ -1,6 +1,7 @@
 ---
 title: "Introducing Universal Altimeter"
 date: 2018-12-09T12:36:21+02:00
+description: "Best altimeter app - barometric altimeter and GPS altitude measurement supported!"
 ---
 
 There is certain allure that draws people to mountains. For some, it's sheer beauty of breathtaking landscapes. For others, it's the experience of overcoming difficulty and struggle when finally reaching the summit. Dangerous, yet beautiful, mountains are drawing curiosity and wanderlust for many types of people, for all of human history.
