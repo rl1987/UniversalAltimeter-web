@@ -10,7 +10,11 @@ When going out on a mountain trip, knowing your current altitude is always of in
 
 [Universal Altimeter](https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8) app turns your iPhone or iPad into barometric altimeter - no internet connection needed to measure elevation based on atmospheric pressure. You get some nice energy savings and extended battery life if you rely on barometric altimeter to know your altitude.
 
+![Screenshot 1](/img/Screen Shot 2018-12-17 at 10.15.04_iphone8spacegrey_portrait.png)
+
 Mountain lovers can use our calibration settings to provide known values of atmospheric pressure, temperature and reference altitude to achieve perfect precision. We recommend to repeat calibration every few hours during your trip, or when significant changes in weather conditions happen. For your convenience, Universal Altimeter app provides a way to get these values automatically (iPhone GPS and internet access will be needed during calibration).
+
+![Screenshot 2](/img/Screen Shot 2018-12-17 at 10.15.01_iphone8spacegrey_portrait.png)
 
 Furthermore, [Universal Altimeter](https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8) app enables you to log and graph your altitude changes over time to measure and analyse your progress.
 
