@@ -18,9 +18,15 @@ Mountain lovers can use our calibration settings to provide known values of atmo
 
 Furthermore, [Universal Altimeter](https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8) app enables you to log and graph your altitude changes over time to measure and analyse your progress.
 
+![Screenshot 3](/img/Screen Shot 2018-12-17 at 10.15.14_iphone8spacegrey_portrait.png)
+
 [Universal Altimeter](https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8) app provides GPS altimetry as fallback. However, due to higher battery usage we recommend to use this feature only when proper calibration is not possible.
 
+![Screenshot 4](/img/Screen Shot 2018-12-17 at 10.15.08_iphone8spacegrey_portrait.png)
+
 You can choose between metric and imperial units for altitude, pressure and temperature values.
+
+![Screenshot 4](/img/Screen Shot 2018-12-17 at 10.41.19_iphone8spacegrey_portrait.png)
 
 We highly recommend every hiker, climber, mountaineer or anyone who visits mountains to give [Universal Altimeter](https://itunes.apple.com/us/app/universal-altimeter/id1439008837?ls=1&mt=8) a try! We believe it will be useful tool that will accompany your travels.
 
